@@ -21,6 +21,7 @@ weight = 2
 home = ["HTML", "RSS", "JSON"]
 [params]
 address = "6 rip carl Avenue CA 90733"
+alt = "Image"
 author = "John Doe"
 author_image = "images/banner-img.png"
 bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
@@ -28,12 +29,14 @@ contact_form_action = "#"
 copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
 description = "This is meta description"
 email = "exmaple@ymail.com"
+height = "5-"
 home = "Home"
 layout = "1"
-logo = "images/Libertate.png" alt="Image" height="5-" width="50"
+logo = "images/Libertate80px.png"
 mobile = "+90 000 333 22"
 preloader = true
 search = true
+width = "50"
 [params.cookies]
 enable = true
 expire_days = 2
