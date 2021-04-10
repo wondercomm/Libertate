@@ -20,13 +20,13 @@ weight = 2
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-address = "6 rip carl Avenue CA 90733"
+address = "Office located in Gurugram, Haryana, India."
 alt = "Image"
-author = "John Doe"
+author = "Libertate"
 author_image = "images/banner-img.png"
-bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
-contact_form_action = "#"
-copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
+bio = "We're a Hand Hygiene Solutions Provider"
+contact_form_action = "mailto: wecare@exportcottage.com"
+copyright = "Copyright &copy; 2020 Libertate (an Export Cottage Initiative); Designed and Developed by [Animis Global](animisglobal.com)"
 description = "This is meta description"
 email = "exmaple@ymail.com"
 height = "5-"
