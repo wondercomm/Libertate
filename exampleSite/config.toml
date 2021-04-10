@@ -30,7 +30,7 @@ description = "This is meta description"
 email = "exmaple@ymail.com"
 home = "Home"
 layout = "1"
-logo = "images/Libertate.png"
+logo = "images/Libertate.png" style="width:500px;height:600px"
 mobile = "+90 000 333 22"
 preloader = true
 search = true
