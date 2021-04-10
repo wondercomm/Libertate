@@ -75,11 +75,5 @@ link = "plugins/search/search.js"
 icon = "ti-facebook"
 link = "https://facebook.com/themefisher"
 [[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-[[params.social]]
 icon = "ti-linkedin"
-link = "#"
-[[params.social]]
-icon = "ti-github"
 link = "#"
