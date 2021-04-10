@@ -1,36 +1,40 @@
 ---
-title: "About"
-date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
-image: "images/author.jpg"
+title: About
+date: 2019-05-14T14:46:10.000+06:00
+description: This is meta description
+image: images/kelly-sikkema-3FHp2yOPDxU-unsplash.jpg
+
 ---
+### Libertate - Hand Hygiene
 
-### Hello, I’m **John Doe**
+Libertate means "freedom". In the wake of the pandemic, we at Export Cottage, a small start-up based out of New Delhi, India decided to do something about the growing demands and lack of supply for Instant Hand Sanitizers in the world - especially the hardest hit country - United States. 
 
-Creative UI/UX desingerr how loves to craft beautiful that satisfy users needs the product. A best idea
-generate for the agency complay smart and elegant design When, while the lovely valley teems with vapour
-around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a
-few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling
-stream; and, as I lie close to the earth, a thousand unknown plants are noticed by me.
+We've partnered up with a FDA approved manufacturer to bring our range of hand hygiene solutions to the market. We've learned how important it is to sanitize our hands by washing regularly and use hand sanitizers when there is no access to soap and water. 
 
-I hear the buzz
-of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects
-and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that
-universal love which bears and sustains.
+Libertate's Instant Hand Sanitizers are formulated using WHO's recommended formula and they are manufactured by a FDA approved facility in India. This provides a greater peace of mind and satisfaction to our customers knowing how and where the product was manufactured. 
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem deserunt tempora doloribus non, voluptas
-dolor? Consequuntur et ad officiis iste, vero natus possimus labore veritatis a eius doloremque. Optio amet
-quis harum nulla vitae repellat officiis veniam accusamus error hic deleniti in, quas est illum cum natus
-neque possimus delectus dolore ipsam. Pariatur, ad molestias alias voluptas iusto quam debitis beatae sint
-similique velit, dicta eos dolorum cumque mollitia officia iure labore voluptatibus. Non at sequi, natus
-dolores, cum accusamus repudiandae hic blanditiis ipsum possimus qui assumenda quaerat optio ab molestias ipsa
-iste molestiae dignissimos. Reprehenderit quod totam nostrum nihil.
+#### 4 Types - Many Sizes
 
+##### Libertate's Instant Hand Sanitizer (100ml, 200ml, 500ml, 5Ltr.)
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem deserunt tempora doloribus non, voluptas
-dolor? Consequuntur et ad officiis iste, vero natus possimus labore veritatis a eius doloremque. Optio amet
-quis harum nulla vitae repellat officiis veniam accusamus error hic deleniti in, quas est illum cum natus
-neque possimus delectus dolore ipsam. Pariatur, ad molestias alias voluptas iusto quam debitis beatae sint
-similique velit, dicta eos dolorum cumque mollitia officia iure labore voluptatibus. Non at sequi, natus
-dolores, cum accusamus repudiandae hic blanditiis ipsum possimus qui assumenda quaerat optio ab molestias ipsa
-iste molestiae dignissimos. Reprehenderit quod totam nostrum nihil.
+###### Availability - Only 200 ml Spray
+
+Can be configured as a spray or dispenser. 
+
+##### Libertate's Instant Hand Sanitizer (aloe) (60ml, 250ml, 500ml)
+
+###### Made to Order
+
+This is a gel based hand sanitizer with aloe-vera and is based on WHO recommended formula. 
+
+##### Libertate's Hand Rub Sanitizer (hospital grade) (500ml, 5Ltr.)
+
+###### Made to Order
+
+Mainly used in hospitals, medical centers and doctors offices.
+
+##### Libertate's Wipeout (500ml, 5Ltr.)
+
+###### Made to Order
+
+Alcohol-based disinfectant, used to disinfecting all surfaces. 
