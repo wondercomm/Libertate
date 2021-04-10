@@ -1,6 +1,6 @@
 ---
-title: About
-date: 2019-05-14T14:46:10.000+06:00
+title: Who We Are
+date: 
 description: This is meta description
 image: images/kelly-sikkema-3FHp2yOPDxU-unsplash.jpg
 
