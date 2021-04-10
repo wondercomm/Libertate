@@ -1,6 +1,6 @@
 ---
 title: Contact
-description: This is meta description
+description: Contact Us
 image: images/contact.jpg
 layout: contact
 
