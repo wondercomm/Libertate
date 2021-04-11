@@ -18,8 +18,6 @@ Libertate's Instant Hand Sanitizers are formulated using WHO's recommended formu
 > ##### INSTANT HAND SANITIZER
 >
 > * 80% Ethyl Alcohol solution. Can be configured as a spray or dispenser.
->
->
 > * Available in 100ml, 200ml, 500ml and 5L bottles.
 
 ***
