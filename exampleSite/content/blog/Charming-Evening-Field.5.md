@@ -3,19 +3,18 @@ title: Instant Hand Sanitizer
 date: '2019-05-14T14:46:10.000+06:00'
 description: This is meta description
 type: post
-image: "/images/instanths1_compressed.png"
+image: "/images/instanths-blog_compressed.png"
 categories:
 - Hand Sanitizer
-tags: []
+tags:
+- Sanitizer
 
 ---
 Libertate's Instant Hand Sanitizer is made from an 80% Ethyl Alcohol solution. It can be configured as a spray or dispenser depending on use.
 
-Available in 100ml, 200ml, 500ml and 5L bottles. 
+Available in 100ml, 200ml, 500ml and 5L bottles.
 
-![](/images/instanths1_compressed.png)
-
-Features:
+#### Features:
 
 * Our bottles are the perfect size for everyday use. Maintaining your hands clean is very important to prevent germs from spreading.
 * No need to rinse with water.
