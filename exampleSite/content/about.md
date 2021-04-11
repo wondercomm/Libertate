@@ -15,30 +15,30 @@ Libertate's Instant Hand Sanitizers are formulated using WHO's recommended formu
 
 #### Variants
 
-> ##### _INSTANT HAND SANITIZER_
+> ##### INSTANT HAND SANITIZER
 >
-> * _80% Ethyl Alcohol solution. Can be configured as a spray or dispenser._
+> * 80% Ethyl Alcohol solution. Can be configured as a spray or dispenser.
 >
 >
-> * _Available in 100ml, 200ml, 500ml and 5L bottles._
+> * Available in 100ml, 200ml, 500ml and 5L bottles.
 
 ***
 
-> ##### _ADVANCED HAND SANITIZER_
+> ##### ADVANCED HAND SANITIZER
 >
-> * _This is a gel based hand sanitizer with 70% Ethyl acohol, Aloe-vera and Emollients, based on a WHO recommended formula._
-> * _Available in 60ml, 250ml and 500ml bottles_
+> * This is a gel based hand sanitizer with 70% Ethyl acohol, Aloe-vera and Emollients, based on a WHO recommended formula.
+> * Available in 60ml, 250ml and 500ml bottles
 
 ***
 
-> ##### _HANDRUB+_
+> ##### HANDRUB+
 >
-> * _Hospital grade sanitizer, safe to use throughout the day. Mainly used in hospitals, medical centers and doctors offices._
-> * _Available in 500ml and 5L bottles_
+> * Hospital grade sanitizer, safe to use throughout the day. Mainly used in hospitals, medical centers and doctors offices.
+> * Available in 500ml and 5L bottles
 
 ***
 
-> ##### _WIPEOUT_
+> ##### WIPEOUT
 >
-> * _Alcohol-based all surface disinfectant spray._
-> * _Available in 500ml and 5L bottles_
+> * Alcohol-based all surface disinfectant spray.
+> * Available in 500ml and 5L bottles
