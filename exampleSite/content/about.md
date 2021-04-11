@@ -2,7 +2,7 @@
 title: Who We Are
 date: 
 description: This is meta description
-image: images/pexels-luis-dalvan-3978594.jpg
+image: images/img_20201018_200252.png
 
 ---
 ### Libertate - Hand Hygiene
