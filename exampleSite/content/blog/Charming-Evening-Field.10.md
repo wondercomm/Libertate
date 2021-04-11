@@ -5,10 +5,10 @@ description: This is meta description
 type: post
 image: images/masonary-post/post-11.jpg
 categories:
-- Food
+- Disinfectant
 tags:
-- Photos
-- Food
+- Disinfectant
+- Sanitizer
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
