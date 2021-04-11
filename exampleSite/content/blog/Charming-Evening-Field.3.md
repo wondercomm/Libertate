@@ -5,10 +5,9 @@ description: This is meta description
 type: post
 image: "/images/ahs1_compressed.png"
 categories:
-- Food
+- Hand Sanitizer
 tags:
-- Photos
-- Food
+- Sanitizer
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
