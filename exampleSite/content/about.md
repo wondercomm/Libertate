@@ -26,7 +26,7 @@ Libertate's Instant Hand Sanitizers are formulated using WHO's recommended formu
 
 > ##### ADVANCED HAND SANITIZER
 >
-> * This is a gel based hand sanitizer with 70% Ethyl acohol, Aloe-vera and Emollients, based on a WHO recommended formula.
+> * This is a gel based hand sanitizer with 70% Ethyl alcohol, Aloe-vera and Emollients, based on a WHO recommended formula.
 > * Available in 60ml, 250ml and 500ml bottles
 
 ***
