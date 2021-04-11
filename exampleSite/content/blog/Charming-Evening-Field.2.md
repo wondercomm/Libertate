@@ -22,6 +22,6 @@ tags:
 
 * Made from Plant Derived Alcohol. No Synthetic Fragrances.
 
-> SPECIFICATION: This is a liquid formula, not gel. Since no synthetic fragrances have been added, this product will have a slight Corn Ethanol Alcohol smell to it.
+> _SPECIFICATION: This is a liquid formula, not gel. Since no synthetic fragrances have been added, this product will have a slight Corn Ethanol Alcohol smell to it._
 
 _Proudly Made in India using WHO recommended formula_
