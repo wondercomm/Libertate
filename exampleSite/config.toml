@@ -20,7 +20,7 @@ weight = 2
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-address = "Office located in Gurugram, Haryana, India."
+address = "Gurugram, Haryana, India."
 alt = "Image"
 author = "Libertate"
 author_image = "images/banner-img.png"
