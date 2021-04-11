@@ -5,6 +5,9 @@ paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
 title = "Libertate | COVID-19 Health Products"
+[[menu.main]]
+name = "Home"
+weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
