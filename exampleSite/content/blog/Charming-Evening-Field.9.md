@@ -5,10 +5,9 @@ description: This is meta description
 type: post
 image: "/images/masks1_compressed.png"
 categories:
-- Food
+- Protective Mask
 tags:
-- Photos
-- Food
+- Mask
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
