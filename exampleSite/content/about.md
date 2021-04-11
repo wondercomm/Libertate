@@ -2,7 +2,7 @@
 title: Who We Are
 date: 
 description: This is meta description
-image: images/img_20201018_200252.png
+image: images/aboutus_compressed.png
 
 ---
 ### Libertate - Hand Hygiene
