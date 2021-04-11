@@ -1,19 +1,19 @@
 ---
-title: Who We Are
+title: About Us
 date: 
 description: This is meta description
 image: images/aboutus_compressed.png
 
 ---
-### Libertate - Hand Hygiene
+***
 
-Libertate means "freedom". In the wake of the pandemic, we at Export Cottage, a small start-up based out of New Delhi, India decided to do something about the growing demands and lack of supply for Instant Hand Sanitizers in the world - especially the hardest hit country - United States.
+**LIBERTATE** means "freedom". In the wake of the pandemic, we at Export Cottage, a small start-up based out of New Delhi, India decided to do something about the growing demands and lack of supply for Instant Hand Sanitizers in the world - especially the hardest hit country - United States.
 
-We've partnered up with a FDA approved manufacturer to bring our range of hand hygiene solutions to the market. We've learned how important it is to sanitize our hands by washing regularly and use hand sanitizers when there is no access to soap and water.
+We've partnered up with a **FDA approved manufacturer** to bring our range of hand hygiene solutions to the market. We've learned how important it is to sanitize our hands by washing regularly and use hand sanitizers when there is no access to soap and water.
 
 Libertate's Instant Hand Sanitizers are formulated using WHO's recommended formula and they are manufactured by a FDA approved facility in India. This provides a greater peace of mind and satisfaction to our customers knowing how and where the product was manufactured.
-
-#### Variants
+***
+#### PORTFOLIO
 
 > ##### INSTANT HAND SANITIZER
 >
