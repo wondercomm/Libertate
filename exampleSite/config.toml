@@ -7,7 +7,6 @@ theme = "parsa-hugo"
 title = "Libertate | COVID-19 Health Products"
 [[menu.main]]
 name = "Home"
-url = "home-1.md"
 weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
