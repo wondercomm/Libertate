@@ -13,20 +13,32 @@ We've partnered up with a FDA approved manufacturer to bring our range of hand h
 
 Libertate's Instant Hand Sanitizers are formulated using WHO's recommended formula and they are manufactured by a FDA approved facility in India. This provides a greater peace of mind and satisfaction to our customers knowing how and where the product was manufactured.
 
-
 #### Variants
+
 > ##### INSTANT HAND SANITIZER
->> - 80% Ethyl Alcohol solution. Can be configured as a spray or dispenser.
->> - Available in 100ml, 200ml, 500ml and 5L bottles.
+>
+> * 80% Ethyl Alcohol solution. Can be configured as a spray or dispenser.
+>
+>
+> * Available in 100ml, 200ml, 500ml and 5L bottles.
+
 ***
->##### ADVANCED HAND SANITIZER
->>This is a gel based hand sanitizer with 70% Ethyl acohol, Aloe-vera and Emollients, based on a WHO recommended formula.
->>Available in 60ml, 250ml and 500ml bottles
+
+> ##### ADVANCED HAND SANITIZER
+>
+> * This is a gel based hand sanitizer with 70% Ethyl acohol, Aloe-vera and Emollients, based on a WHO recommended formula.
+> * Available in 60ml, 250ml and 500ml bottles
+
 ***
->##### HANDRUB+
->>Hospital grade sanitizer, safe to use throughout the day. Mainly used in hospitals, medical centers and doctors offices.
->>Available in 500ml and 5L bottles
+
+> ##### HANDRUB+
+>
+> * Hospital grade sanitizer, safe to use throughout the day. Mainly used in hospitals, medical centers and doctors offices.
+> * Available in 500ml and 5L bottles
+
 ***
->##### WIPEOUT
->>Alcohol-based all surface disinfectant spray.
->>Available in 500ml and 5L bottles
+
+> ##### WIPEOUT
+>
+> * Alcohol-based all surface disinfectant spray.
+> * Available in 500ml and 5L bottles
