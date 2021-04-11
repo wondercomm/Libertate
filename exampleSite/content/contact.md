@@ -1,7 +1,7 @@
 ---
 title: Contact
 description: Contact Us
-image: images/contact.jpg
+image: images/contactus1.png
 layout: contact
 
 ---
