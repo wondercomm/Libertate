@@ -3,6 +3,9 @@ title: Contact
 description: Contact Us
 image: images/contactus1.png
 layout: contact
+menu:
+  main:
+    weight: 3
 
 ---
 Hand hygiene is an important part of the U.S. response to COVID-19. Washing hands often with soap and water for at least 20 seconds is essential, especially after going to the bathroom; before eating; and after coughing, sneezing, or blowing one’s nose. If soap and water are not readily available, the Centers for Disease Control and Prevention (CDC) recommends consumers use an alcohol-based hand sanitizer that contains at least 60 percent alcohol (also referred to as ethanol or ethyl alcohol).

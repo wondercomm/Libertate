@@ -3,6 +3,10 @@ title: About Us
 date: 
 description: This is meta description
 image: images/aboutus_compressed.png
+menu:
+  main:
+    name: About
+    weight: 2
 
 ---
 ***
