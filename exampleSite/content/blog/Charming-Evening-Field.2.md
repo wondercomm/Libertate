@@ -11,9 +11,7 @@ tags:
 - Hospital Grade
 
 ---
-80% Alcohol  
-Available in 500ml, 5Ltr.  
-Made in a FDA Approved Facility | WHO recommended Formula
+80% Alcohol |  Available in 500ml and 5Ltr bottles | Made in a FDA Approved Facility | WHO recommended Formula
 
 #### Features:
 
@@ -25,6 +23,6 @@ Made in a FDA Approved Facility | WHO recommended Formula
 * Easy to use at home and outdoors Unscented Liquid Hand Sanitizer 80% Alcohol
 * Made from Plant Derived Alcohol. No Synthetic Fragrances.
 
-> _SPECIFICATION: This is a liquid formula, not gel. Since no synthetic fragrances have been added, this product will have a slight Corn Ethanol Alcohol smell to it._
+_SPECIFICATION: This is a liquid formula, not gel. Since no synthetic fragrances have been added, this product will have a slight Corn Ethanol Alcohol smell to it._
 
 Proudly Made in India.
