@@ -10,11 +10,7 @@ tags:
 - Mask
 
 ---
-#### Dual-layered Cotton Prints | Reusable & Washable | Adjustable Size | Unisex
-***
-***
-
-##### Features:
+#### Dual-layered Cotton Prints | Reusable & Washable | Adjustable Size | Unisex:
 
 1. The cloth face masks are designed and handmade for extensive wear, which makes them a lot more comfortable for everyday use
 2. Washable face mask features a double layer of material to care of yourself and your family
