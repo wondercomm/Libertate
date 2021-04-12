@@ -46,11 +46,8 @@ Libertate's Instant Hand Sanitizers are formulated using WHO's recommended formu
 >
 > * Alcohol-based all surface disinfectant spray.
 > * Available in 500ml and 5L bottles
-
+***
+***
 #### CERTIFICATES
 
-![](/images/fda.jpeg)
-
-![](/images/who.jpeg)
-
-![](/images/iso.jpeg)
+![](/images/fda.jpeg) ![](/images/who.jpeg) ![](/images/iso.jpeg)
