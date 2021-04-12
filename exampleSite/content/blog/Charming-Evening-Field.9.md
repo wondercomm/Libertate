@@ -17,17 +17,11 @@ tags:
 3. The cloth face mask is made with pure cotton cloth. So you can hand wash and wear the same face mask for many times
 4. These washable face mask for men & women the entire area of the mouth and nose for more heed. They come in a standard medium size that fits men and women alike
 
-##### MF01 | In Stock: 9
-
-![](/images/mf01.jpeg)
-
-##### MF05 | In Stock: 7
-
-![](/images/mf05.jpeg)
-
-##### MF06 | In Stock: 5
-
-![](/images/mf06.jpeg)
+***
+|||
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|##### MF01 (In Stock: 9) | ##### MF05 (In Stock: 7) | ##### MF06 | In Stock: 5|
+|![](/images/mf01.jpeg) | ![](/images/mf05.jpeg) | ![](/images/mf06.jpeg)|
 
 ##### MF11 | In Stock: 4
 
