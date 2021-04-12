@@ -1,9 +1,9 @@
 ---
-title: Wipeout
+title: All Surface Wipeout
 date: '2019-05-14T14:46:10.000+06:00'
 description: This is meta description
 type: post
-image: "/images/disinfectant-5093503_1920.jpg"
+image: "/images/pexels-matilda-wormwood-4099467.jpg"
 categories:
 - Disinfectant
 tags:
