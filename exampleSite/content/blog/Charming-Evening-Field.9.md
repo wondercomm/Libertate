@@ -10,23 +10,12 @@ tags:
 - Mask
 
 ---
-#### Cloth Reusable Washable - Adjustable Cotton Printed Face Unisex Adult Plain for Women ,Men - 4 PCS
+#### Dual-layered Cotton Prints | Reusable & Washable | Adjustable Size | Unisex
 
-1. The cloth face masks are designed for extensive wear, which makes them a lot more comfortable for everyday use
-2. Washable face mask features a triple layer of material to care of yourself and your family
-3. The cute cloth face mask is made with polyester. So you can hand wash and wear the same face mask for many times
-4. The 4 pieces face masks is a combination of many colors, including black ;dark gray ;light gray; royal blue; burgundy, etc.
-5. These washable face mask for men & women the entire area of the mouth and nose for more heed. They come in a standard medium size that fits men and women alike
-
-> Handmade
->
-> Universal Size
->
-> Comfortable
->
-> Fashionable
->
-> Reusable
+1. The cloth face masks are designed and handmade for extensive wear, which makes them a lot more comfortable for everyday use
+2. Washable face mask features a double layer of material to care of yourself and your family
+3. The cloth face mask is made with pure cotton cloth. So you can hand wash and wear the same face mask for many times
+4. These washable face mask for men & women the entire area of the mouth and nose for more heed. They come in a standard medium size that fits men and women alike
 
 ##### MF01 | In Stock: 9
 
