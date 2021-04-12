@@ -11,7 +11,7 @@ tags:
 - Sanitizer
 
 ---
-#### Features
+#### All surface disinfectant:
 
 * KILLS 99.9% OF VIRUSES AND GERMS during household cleaning. Safe to spray eating surfaces, no rinsing.
 * SAFE TO SPRAY AROUND KIDS & PETS, Free of alcohol, ammonia, bleach, fragrance & dyes.
