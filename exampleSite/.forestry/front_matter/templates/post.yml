@@ -20,5 +20,3 @@ fields:
 - type: text
   name: type
   label: type
-pages:
-- exampleSite/content/blog/jaggery-coming-soon.md
