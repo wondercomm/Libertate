@@ -3,9 +3,9 @@ categories = ["Hand Sanitizer"]
 date = "2019-05-14T14:46:10.000+06:00"
 description = "This is meta description"
 draft = true
-image = "/images/handrub1_compressed.png"
-tags = ["Sanitizer", "Hospital Grade"]
-title = "Handrub+-(copy)"
+image = "/images/ahs1_compressed.png"
+tags = ["Sanitizer"]
+title = "Advanced Hand Sanitizer"
 type = "post"
 
 +++
