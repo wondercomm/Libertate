@@ -48,6 +48,6 @@ Libertate's Instant Hand Sanitizers are formulated using WHO's recommended formu
 > * Available in 500ml and 5L bottles
 ***
 ***
-#### CERTIFICATES
+#### MANUFACTURER CERTIFICATES
 
 ![](/images/fda.jpeg) ![](/images/who.jpeg) ![](/images/iso.jpeg)
