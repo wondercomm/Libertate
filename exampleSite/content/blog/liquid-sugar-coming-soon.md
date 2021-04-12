@@ -8,10 +8,4 @@ title = "Liquid Sugar (Coming Soon)"
 type = "post"
 
 +++
-Text 01
-
-> Box text 001
-
-![](../images/post-img.jpg)
-
-Text 003
+Coming soon. Watch this space for more.
