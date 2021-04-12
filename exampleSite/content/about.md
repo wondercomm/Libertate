@@ -51,4 +51,4 @@ Libertate's Instant Hand Sanitizers are formulated using WHO's recommended formu
 #### MANUFACTURER CERTIFICATES
 |||
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|![](/images/fda.jpeg)|![](/images/who.jpeg)|![](/images/iso.jpeg)
+|![](/images/fda.jpeg) | ![](/images/who.jpeg) | ![](/images/iso.jpeg)
