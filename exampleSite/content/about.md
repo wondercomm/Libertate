@@ -16,14 +16,14 @@ menu:
 We've partnered up with a **FDA approved manufacturer** to bring our range of hand hygiene solutions to the market. We've learned how important it is to sanitize our hands by washing regularly and use hand sanitizers when there is no access to soap and water.
 
 Libertate's Instant Hand Sanitizers are formulated using WHO's recommended formula and they are manufactured by a FDA approved facility in India. This provides a greater peace of mind and satisfaction to our customers knowing how and where the product was manufactured.
+
 ***
+
 #### PORTFOLIO
 
 > ##### INSTANT HAND SANITIZER
 >
 > * 80% Ethyl Alcohol solution. Can be configured as a spray or dispenser.
->
->
 > * Available in 100ml, 200ml, 500ml and 5L bottles.
 
 ***
@@ -46,3 +46,11 @@ Libertate's Instant Hand Sanitizers are formulated using WHO's recommended formu
 >
 > * Alcohol-based all surface disinfectant spray.
 > * Available in 500ml and 5L bottles
+
+#### CERTIFICATES
+
+![](/images/fda.jpeg)
+
+![](/images/who.jpeg)
+
+![](/images/iso.jpeg)
