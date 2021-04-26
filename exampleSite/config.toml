@@ -65,6 +65,3 @@ link = "plugins/search/search.js"
 [[params.social]]
 icon = "ti-facebook"
 link = "https://www.facebook.com/exportcottage"
-[[params.social]]
-icon = "ti-linkedin"
-link = "#"
